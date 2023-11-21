@@ -18,7 +18,7 @@ Jai Shree Ram! 🙏 I'm Ashutosh Sharma, but you can call me Ashu. I'm currently
 
 ## Connect With Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ashutoshsharmaofficial/) and let's geek out over coding and tech!
+Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/iashu-sharma/]) and let's geek out over coding and tech!
 
 🌟 Why You Should Check Out My Repositories
 Are you someone who enjoys:
