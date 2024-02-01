@@ -1,4 +1,4 @@
-# Welcome to Ashutosh Sharma's GitHub Page! 👋
+# Welcome to Ashu Sharma's GitHub Page! 👋
 
 Jai Shree Ram! 🙏 I'm Ashutosh Sharma, but you can call me Ashu. I'm currently on the exciting journey of pursuing my BCA and rocking the world of web development. With 3 years of experience under my belt, I'm all set to dive into the realms of Android and IOS development. 🚀
 
