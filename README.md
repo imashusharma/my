@@ -1,6 +1,6 @@
 # Welcome to My GitHub Land! 👋
 
-Jai Shree Ram! 🙏 I'm Ashu Sharma, but you can call me Ashu. I'm currently on the exciting journey of pursuing my BCA and rocking the world of web development. With 4 years of experience under my belt, I'm all set to dive into the realms of Android and IOS development. 🚀
+🚀 Hey LinkedIn! 👋 I'm Ashutosh Sharma, a passionate web and mobile developer with more than 4 years of hands-on experience. I'm all about crafting dynamic web apps and diving into Android/iOS development to turn code into digital magic! 🌟 🚀
 
 ## Why You Should Check Out My Repositories?
 
@@ -18,7 +18,7 @@ Jai Shree Ram! 🙏 I'm Ashu Sharma, but you can call me Ashu. I'm currently on 
 
 ## Connect With Me
 
-Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/iashu-sharma/]) and let's geek out over coding and tech!
+Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/ashhuusharma]) and let's geek out over coding and tech!
 
 🌟 Why You Should Check Out My Repositories
 Are you someone who enjoys:
