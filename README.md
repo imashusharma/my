@@ -1,34 +1,33 @@
 # Welcome to My GitHub Land! 👋
 
-🚀 Hey LinkedIn! 👋 I'm Ashutosh Sharma, a passionate web and mobile developer with more than 4 years of hands-on experience. I'm all about crafting dynamic web apps and diving into Android/iOS development to turn code into digital magic! 🌟 🚀
+🚀 Hey GitHub! 👋 I'm Ashutosh Sharma, a web and mobile developer with 4+ years of experience. I turn code into digital magic, crafting dynamic web apps and diving into Android/iOS development! 🌟🚀
 
-## Why You Should Check Out My Repositories?
+## Why Visit My Repositories?
 
-🌐 **Web Development Wizard:** If you're into web development and want to explore projects built with React.js, Next.js, Laravel PHP Framework, HTML, CSS, and JavaScript, you're in the right place! From sleek front-end designs to robust back-end structures, my repositories have it all.
+🌐 **Web Development Wizard:** Love web dev? Check out projects with React.js, Next.js, Laravel, HTML, CSS, and JavaScript. From sleek front-end to robust back-end, it's all here!
 
-📱 **Mobile App Aficionado:** Dreaming of creating mobile apps? Explore my journey with React Native and Java as I pave my way to becoming a versatile mobile app developer. 📲
+📱 **Mobile App Aficionado:** Into mobile apps? Explore my journey with React Native and Java. 📲
 
-🛠️ **Tech Stack Extravaganza:** MongoDB, SQL, and a bunch of other technologies are part of my arsenal. Dive into the code and witness the symphony of these technologies harmoniously crafting digital wonders.
-
-## About Me
-
-- 🎓 **Education:** Currently pursuing BCA.
-- 💼 **Experience:** 4 years in web development.
-- 🚀 **Future Plans:** Aim to conquer the realms of Android and IOS development.
+🛠️ **Tech Stack Extravaganza:** Dive into my code featuring MongoDB, SQL, and more. Witness tech crafting digital wonders!
 
 ## Connect With Me
+Join me on [LinkedIn](https://www.linkedin.com/in/ashhuusharma) and let's geek out over coding and tech!
 
-Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/ashhuusharma]) and let's geek out over coding and tech!
+## Why Check Out My Repos?
 
-🌟 Why You Should Check Out My Repositories
-Are you someone who enjoys:
+- Clean Code? ✨
+- Innovative Web Dev? 🌐
+- Random Indian Memes? 😂
 
-Clean Code? ✨
-Innovative Web Development? 🌐
-Random Indian Meme Content and Dialogues? 😂
-Well, you're in for a treat! My repositories are not just about code; they're about the journey, the laughter, and the memes that make coding a tad bit more entertaining. I believe in making technology fun and accessible, just like your favorite Bollywood dance sequence! 💃🎉
+My repositories are a journey filled with laughter and memes, making coding as fun as a Bollywood dance sequence! 💃🎉
 
-🤝 Let's Connect
-Feel free to connect with me and embark on this coding adventure together. If you find a bug or just want to chat about the latest web development trends, drop me a message. Let's make the web a better place, one commit at a time! 🌐🚀
+## Let's Connect
+Connect with me, find bugs, chat about web dev trends, or just enjoy some tech banter. Let's make the web better, one commit at a time! 🌐🚀
 
 Happy Coding! 🚴‍♂️💻
+
+### Skills
+- **Web Dev:** React.js, Next.js, Node.js, Laravel
+- **Languages:** Rust, Python, Java, Kotlin
+- **Add-ons:** Tailwind, MongoDB, MySQL
+- **Cloud:** AWS, Azure
